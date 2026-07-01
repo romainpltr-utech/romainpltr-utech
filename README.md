@@ -2,7 +2,7 @@
 
 # Romain Poultier
 
-**DevOps Engineer @ Système U**
+**DevOps Engineer @ Coopérative U**
 
 IAM · Platform Engineering · Infrastructure as Code
 
@@ -37,8 +37,6 @@ IAM · Platform Engineering · Infrastructure as Code
 ---
 
 ### 📂 Repos
-
-La majorité du travail est sur infrastructure privée.
 
 - 🔧 [dotfiles](https://github.com/romainpltr-utech/dotfiles) — environnement WSL DevOps (chezmoi, zsh, mise, copilot)
 
