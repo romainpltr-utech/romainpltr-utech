@@ -36,19 +36,6 @@ IAM · Platform Engineering · Infrastructure as Code
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=romainpltr-utech&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainpltr-utech&layout=compact&theme=dark&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=romainpltr-utech&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ### 📂 Repos
 
 La majorité du travail est sur infrastructure privée.
