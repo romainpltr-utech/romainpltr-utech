@@ -6,7 +6,7 @@
 
 IAM · Platform Engineering · Infrastructure as Code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/romain-poultier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/romainpltr)
 [![GitHub followers](https://img.shields.io/github/followers/romainpltr-utech?style=flat&logo=github)](https://github.com/romainpltr-utech)
 
 </div>
